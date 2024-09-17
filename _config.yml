@@ -49,3 +49,4 @@ collections:
 exclude:
   - soc.yaml
   - pmic.yaml
+  - vendor/
